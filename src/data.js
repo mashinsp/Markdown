@@ -8,11 +8,11 @@ Markdown is an *awesome* way to write **very basic HTML** by typing manually
 It can be used for:
 
 1. README files
-1. Slack and Discord messages
+2. Slack and Discord messages
 
 ---
 
-Here's a division 👆`,
+Here's a division `,
     },
     { id: 2, body: `a` },
     { id: 3, body: `b` },
